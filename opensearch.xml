@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Romli.NET Shop</ShortName>
+  <LongName>Cari di Romli.NET Shop</LongName>
+  <Description>Pencarian info travel di Romli.NET Shop</Description>
+  <Image type="http://toko-kit-elektro.blogspot.com/favicon.ico" height="16" width="16">image/x-icon</Image>
+  <Developer>Romli.NET Shop</Developer>
+  <Url type="application/atom+xml" template="http://toko-kit-elektro.blogspot.com/search?q={searchTerms}&amp;feed=atom"/>
+  <Url type="application/rss+xml" template="http://toko-kit-elektro.blogspot.com/search?q={searchTerms}&amp;feed=rss2"/>
+  <Url type="text/html" template="http://toko-kit-elektro.blogspot.com/search?q={searchTerms}" method="GET" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="" />
+</OpenSearchDescription>
