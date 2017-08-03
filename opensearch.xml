@@ -3,10 +3,10 @@
   <ShortName>Romli.NET Shop</ShortName>
   <LongName>Cari di Romli.NET Shop</LongName>
   <Description>Pencarian info travel di Romli.NET Shop</Description>
-  <Image type="http://toko-kit-elektro.blogspot.com/favicon.ico" height="16" width="16">image/x-icon</Image>
+  <Image type="http://shop.romli.net/favicon.ico" height="16" width="16">image/x-icon</Image>
   <Developer>Romli.NET Shop</Developer>
-  <Url type="application/atom+xml" template="http://toko-kit-elektro.blogspot.com/search?q={searchTerms}&amp;feed=atom"/>
-  <Url type="application/rss+xml" template="http://toko-kit-elektro.blogspot.com/search?q={searchTerms}&amp;feed=rss2"/>
-  <Url type="text/html" template="http://toko-kit-elektro.blogspot.com/search?q={searchTerms}" method="GET" />
+  <Url type="application/atom+xml" template="http://shop.romli.net/search?q={searchTerms}&amp;feed=atom"/>
+  <Url type="application/rss+xml" template="http://shop.romli.net/search?q={searchTerms}&amp;feed=rss2"/>
+  <Url type="text/html" template="http://shop.romli.net/search?q={searchTerms}" method="GET" />
   <Url type="application/opensearchdescription+xml" rel="self" template="https://cdn.rawgit.com/romlishop/files/1cbd60f6/opensearch.xml" />
 </OpenSearchDescription>
